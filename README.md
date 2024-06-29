@@ -34,7 +34,7 @@ Traders Management System is a web application developed using Node.js for manag
 2. Navigate into the project directory:
 
    ```bash
-   cd Traders-Management-System
+   cd Traders-Management-System/odoo
    ```
 
 3. Install dependencies using npm:
