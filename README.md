@@ -1,4 +1,3 @@
-```markdown
 # Traders Management System
 
 Traders Management System is a web application developed using Node.js for managing trader information.
